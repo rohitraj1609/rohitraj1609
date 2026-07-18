@@ -21,11 +21,13 @@
 
 ### 🚀 About Me
 
-- 🛠️ **Automation Software Developer @ TIFIN** — building shared observability libraries, LLM evaluation frameworks, and Go/Python microservices.
+- 🛠️ **Automation Software Developer @ TIFIN** — I author shared **observability** libraries (logging wrappers with automatic traceback capture, distributed trace-ID propagation, and request-ID middleware) rolled out across **12+ Go & Python microservices**.
+- 🤖 I build **LLM-powered automation** — an automated test-failure triage pipeline (pipeline traces + GPT-4o → root-cause categorization, auto-filed tickets, and Slack alerts) and an LLM evaluation framework for a production conversational assistant.
+- 🔐 Led an **org-wide supply-chain security initiative**, pinning dependencies to exact versions across **14+ repositories**.
+- 🧩 Shipped a **Go B2B service** that turns enterprise CRM tickets into auto-generated customer emails — with statement annexures, nominee PII masking, and date-range propagation.
+- 🔭 Focused on **distributed tracing, structured logging, RAG, and LLM automation**.
 - 🎓 **B.E. Computer Science** @ New Horizon College of Engineering, Bengaluru.
-- 🔭 I work across **distributed tracing, structured logging, RAG, and LLM-powered automation**.
-- 📡 I authored core modules of an internal observability library rolled out across **12+ microservices**, and built an automated test-failure triage pipeline using GPT-4o.
-- ⚡ Fun fact: I love turning messy production signals into clean, traceable systems.
+- ⚡ I love turning messy production signals into clean, traceable systems.
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
 
