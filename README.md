@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 - 🛠️ **Automation Software Developer @ TIFIN** — building shared observability libraries, LLM evaluation frameworks, and Go/Python microservices.
-- 🎓 **B.E. Computer Science** @ New Horizon College of Engineering, Bengaluru (Grad May 2026 · CGPA **8.73/10**).
+- 🎓 **B.E. Computer Science** @ New Horizon College of Engineering, Bengaluru.
 - 🔭 I work across **distributed tracing, structured logging, RAG, and LLM-powered automation**.
 - 📡 I authored core modules of an internal observability library rolled out across **12+ microservices**, and built an automated test-failure triage pipeline using GPT-4o.
 - ⚡ Fun fact: I love turning messy production signals into clean, traceable systems.
