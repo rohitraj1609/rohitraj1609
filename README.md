@@ -85,11 +85,31 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [**Alpha Strategy — Trend & Trade Builder**](https://github.com/rohitraj1609/alpha-strategy-trend-builder) | Trading-strategy builder detecting trends from OHLCV data (MA, RSI, MACD), optimized for Sharpe Ratio. 🏆 **3rd place @ IIT Bombay Techfest** |
-| [**Smart Ticketing & QR Boarding**](https://github.com/rohitraj1609/Smart-Ticketing-and-QR-Boarding-System) | Flask QR-ticketing platform with real-time boarding validation, dynamic fares, Razorpay payments, and an analytics dashboard. |
-| [**Dynamic Route Optimization**](https://github.com/rohitraj1609/Dynamic-Route-Optimization) | Flask app that monitors & rationalizes city bus routes in real time via Google Maps Directions API, with live arrivals on an interactive map. |
+**📈 [Alpha Strategy — Trend Detection & Trade Strategy Builder](https://github.com/rohitraj1609/alpha-strategy-trend-builder)**
+<br/>Trading-strategy builder that detects trends from historical **OHLCV** data using technical indicators (Moving Averages, RSI, MACD) and statistical models, optimized for **Sharpe Ratio**.
+<br/>🏆 *3rd place — Dhan × IIT Bombay Techfest 2024*
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**🎫 [Smart Ticketing & QR Boarding System](https://github.com/rohitraj1609/Smart-Ticketing-and-QR-Boarding-System)**
+<br/>Flask QR-ticketing platform with real-time boarding validation, dynamic fare calculation (distance / peak / seat), **Razorpay** payments, and a revenue & travel-pattern analytics dashboard.
+<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🚌 [Dynamic Bus Route Monitoring System](https://github.com/rohitraj1609/Dynamic-Route-Optimization)**
+<br/>Flask web app that monitors and rationalizes city bus routes in real time using the **Google Maps Directions API**, visualizing live arrivals and traffic on an interactive map.
+<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
 
