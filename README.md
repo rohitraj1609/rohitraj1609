@@ -31,17 +31,35 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
 
+### 💼 Experience
+
+**🏢 Automation Software Developer** — [TIFIN](https://www.tifin.com/) · `May 2026 – Present` · Bengaluru
+<br/>Authored an internal shared **observability** library (rolled out across 12+ Go & Python services), led an org-wide supply-chain security initiative, and shipped **LLM-powered automation** and Go B2B services.
+
+**🧪 Quality Assurance Intern** — MyFi by TIFIN · `May 2025 – Apr 2026` · Bengaluru
+<br/>Built an automated **LLM evaluation framework** for the production assistant, added telemetry & request-ID middleware across 8+ services, and contributed to a multi-AMC **RAG** knowledge base.
+
+**☕ Java Development Intern** — Shadowfox · `Oct 2024 – Nov 2024` · Remote
+<br/>Built and debugged Java backend applications (OOP, data structures, exception handling); refactored modules to improve reliability.
+
+<div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
+
 ### 🧰 Tech Stack
 
+<p align="center"><b>Languages &amp; Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,py,java,c,js,fastapi,flask,docker,gcp,mongodb,mysql,git,linux,elasticsearch,kubernetes,githubactions&perline=8" alt="skills" />
 </p>
 
+<p align="center"><b>AI / ML &amp; Observability</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-1A7F64?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9A00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Distributed_Tracing-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Distributed Tracing" />
+  <img src="https://img.shields.io/badge/Structured_Logging-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Structured Logging" />
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
