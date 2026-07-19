@@ -36,7 +36,7 @@
 **🏢 Automation Software Developer** — [TIFIN](https://www.tifin.com/) · `May 2026 – Present` · Bengaluru
 <br/>Authored an internal shared **observability** library (rolled out across 12+ Go & Python services), led an org-wide supply-chain security initiative, and shipped **LLM-powered automation** and Go B2B services.
 
-**🧪 Quality Assurance Intern** — MyFi by TIFIN · `May 2025 – Apr 2026` · Bengaluru
+**🧪 Quality Assurance Intern** — [MyFi by TIFIN](https://askmyfi.com/) · `May 2025 – Apr 2026` · Bengaluru
 <br/>Built an automated **LLM evaluation framework** for the production assistant, added telemetry & request-ID middleware across 8+ services, and contributed to a multi-AMC **RAG** knowledge base.
 
 **☕ Java Development Intern** — Shadowfox · `Oct 2024 – Nov 2024` · Remote
