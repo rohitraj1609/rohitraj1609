@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj1609&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj1609&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
@@ -96,7 +96,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitraj1609&bg_color=141321&color=fe428e&line=fe428e&point=a9fef7&area=true&area_color=fe428e&title_color=fe428e&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitraj1609&bg_color=141321&color=fe428e&line=fe428e&point=a9fef7&area=true&area_color=fe428e&title_color=fe428e&hide_border=true&v=2" alt="Activity Graph" />
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
