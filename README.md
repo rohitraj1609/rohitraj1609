@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj1609&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohitraj1609&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
@@ -133,8 +133,20 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
 
+### 📄 Publication
+
+**[Beyond the Game: Investigating Gamification Models to Enhance Digital Learning in STEM and AI Education](https://ieeexplore.ieee.org/document/11597623)**
+<br/>Peer-reviewed conference paper on how gamification models affect engagement and retention in STEM and AI education. Published in the **IEEE Xplore Digital Library**.
+<br/>Implementation: **[Game-Based Learning App](https://github.com/rohitraj1609/Game_based_learing_app)**
+<br/>
+![IEEE](https://img.shields.io/badge/IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)
+![Research](https://img.shields.io/badge/Peer_Reviewed-8e2de2?style=flat-square)
+
+<div align="center"><img src="https://raw.githubusercontent.com/rohitraj1609/rohitraj1609/main/assets/neon-divider.svg" width="100%" alt="---" /></div>
+
 ### 🏆 Achievements
 
+- 📄 **Published Author** — IEEE Xplore Digital Library
 - 🥉 **3rd Place Winner** — IIT Bombay Techfest 2024
 - 🚀 **Top 7 Team** — Smart India Hackathon 2024
 
